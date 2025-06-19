@@ -1,5 +1,5 @@
 # Kick-viewer-bot
-Selling new kick viewer bot source code
+Selling new kick viewer bot source code (requests)
 
 
 - Discord: .deepblue.
