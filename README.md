@@ -13,5 +13,5 @@ Some proofs / you can contact for test
 
 
 
-Kick bot - kick.com viewer bot - kick.com bot
+Kick bot - kick.com viewer bot - kick.com bot 
 
