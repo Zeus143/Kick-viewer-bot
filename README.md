@@ -4,7 +4,7 @@
 
 
 - Discord: .deepblue.
-- Telegram: https://t.me/isowastaken
+- Telegram: https://t.me/isowastaken 
 
 
 Some proofs / you can contact for test
