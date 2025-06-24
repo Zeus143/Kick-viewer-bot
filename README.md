@@ -1,4 +1,5 @@
 # Kick-viewer-bot
+**ONLY 5 COPY LEFT**
 Selling new kick viewer bot source code (requests)
 
 
@@ -14,4 +15,19 @@ Some proofs / you can contact for test
 
 
 Kick bot - kick.com viewer bot - kick.com bot 
-
+kick
+kick-account-creator
+kick-bot
+kick-bots
+kick-com
+kick-follower
+kick-free-view-bot
+kick-generator
+kick-streaming-bot
+kick-tools
+kick-view-bot-github
+kick-viewbot
+kick-viewer
+kick-viewers-bot
+kick-views
+kickcom
