@@ -3,7 +3,7 @@
 - Selling new kick viewer bot source code (requests)
 
 
-- Discord: .deepblue. 
+- Discord: .deepblue.
 - Telegram: https://t.me/isowastaken
 
 
