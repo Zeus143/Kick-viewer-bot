@@ -32,3 +32,5 @@ kick-viewer
 kick-viewers-bot
 kick-views
 kickcom
+
+- https://botzverse.com/
