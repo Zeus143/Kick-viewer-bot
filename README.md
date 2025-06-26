@@ -1,5 +1,5 @@
 # Kick-viewer-bot 
-**ONLY 4 COPY LEFT**
+**ONLY 3 COPY LEFT**
 - Selling new kick viewer bot source code (requests)
 
 
