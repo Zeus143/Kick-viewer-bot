@@ -36,3 +36,4 @@ kick-views
 kickcom
 
 - https://botzverse.com/
+- https://proxyhunter.io/
