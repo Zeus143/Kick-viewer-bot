@@ -2,7 +2,9 @@
 **ONLY 2 COPY LEFT** STATUS: WORKING UPDATE: 13.08.2025
 - Selling new kick viewer bot source code (requests) 
  
-  
+Live proof: https://streamable.com/p5z5p8  
+
+
 - Discord: .deepblue.  
 - Telegram: https://t.me/isowastaken
 - WeChat
